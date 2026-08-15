@@ -19,7 +19,7 @@
 
 ## 工具
 
-* [flyio](https://github.com/wendux/fly/blob/master/README-CH.md) ⭐ 3,926 | 🐛 91 | 🌐 JavaScript | 📅 2022-07-26 - 同时支持浏览器、小程序、Node、Weex 的基于 Promise 的跨平台 http 请求库。可以让您在多个端上尽可能大限度的实现代码复用。
+* [flyio](https://github.com/wendux/fly/blob/master/README-CH.md) ⭐ 3,927 | 🐛 91 | 🌐 JavaScript | 📅 2022-07-26 - 同时支持浏览器、小程序、Node、Weex 的基于 Promise 的跨平台 http 请求库。可以让您在多个端上尽可能大限度的实现代码复用。
 * [mpvue-entry](https://github.com/F-loat/mpvue-entry) ⭐ 349 | 🐛 22 | 🌐 JavaScript | 📅 2022-12-03 - 集中式页面配置，避免重复编辑各页面的 main.js 文件，优化目录结构。
 * [minapp-api-promise](https://github.com/bigmeow/minapp-api-promise) ⚠️ Archived - 将所有异步微信小程序 API promise 化，支持 then/catch、async/await 的方式调用小程序 API，支持请求队列，支持对原生 API 进行拦截。
 * [mpvue-router-patch](https://github.com/F-loat/mpvue-router-patch) ⭐ 301 | 🐛 10 | 🌐 JavaScript | 📅 2019-03-05 - 在 mpvue 中使用 vue-router 兼容的路由写法。
@@ -73,4 +73,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

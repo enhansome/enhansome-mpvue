@@ -14,7 +14,7 @@
             "last_commit": "2022-07-26T04:59:50Z",
             "owner": "wendux",
             "repo": "fly",
-            "stars": 3926
+            "stars": 3927
           }
         },
         {
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T07:47:53.899Z",
+    "last_updated": "2026-08-15T06:55:54.315Z",
     "original_repository": "mpvue/awesome-mpvue",
     "original_repository_sha": "78d437436f71a21cf3872822c481ef1358959fd8",
     "enhanced_repository": "enhansome/enhansome-mpvue",
