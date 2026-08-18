@@ -374,7 +374,7 @@
             "last_commit": "2018-07-27T09:00:58Z",
             "owner": "zz570557024",
             "repo": "vue-mpvue-ChatRobot",
-            "stars": 267
+            "stars": 266
           }
         },
         {
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:14:10.943Z",
+    "last_updated": "2026-08-18T07:02:09.965Z",
     "original_repository": "mpvue/awesome-mpvue",
     "original_repository_sha": "78d437436f71a21cf3872822c481ef1358959fd8",
     "enhanced_repository": "enhansome/enhansome-mpvue",
