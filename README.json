@@ -208,7 +208,7 @@
             "last_commit": "2023-02-19T07:56:56Z",
             "owner": "Hzy0913",
             "repo": "mpvue-calendar",
-            "stars": 537
+            "stars": 539
           }
         },
         {
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:02:09.965Z",
+    "last_updated": "2026-08-19T07:03:32.779Z",
     "original_repository": "mpvue/awesome-mpvue",
     "original_repository_sha": "78d437436f71a21cf3872822c481ef1358959fd8",
     "enhanced_repository": "enhansome/enhansome-mpvue",
