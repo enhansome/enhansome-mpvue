@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103761921,
             "language": "JavaScript",
             "last_commit": "2022-07-26T04:59:50Z",
             "owner": "wendux",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127411040,
             "language": "JavaScript",
             "last_commit": "2022-12-03T09:10:13Z",
             "owner": "F-loat",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 126448844,
             "language": "JavaScript",
             "last_commit": "2020-03-29T03:31:17Z",
             "owner": "bigmeow",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127766694,
             "language": "JavaScript",
             "last_commit": "2019-03-05T08:09:33Z",
             "owner": "F-loat",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139562468,
             "language": "JavaScript",
             "last_commit": "2018-11-04T12:22:04Z",
             "owner": "jessejyang",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153143433,
             "language": "JavaScript",
             "last_commit": "2019-02-20T10:09:07Z",
             "owner": "F-loat",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155371139,
             "language": "JavaScript",
             "last_commit": "2018-12-20T11:26:08Z",
             "owner": "F-loat",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172035539,
             "language": "JavaScript",
             "last_commit": "2023-12-04T21:33:19Z",
             "owner": "Cweili",
@@ -119,7 +127,7 @@
       "title": "工具"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124478936,
             "language": "Vue",
             "last_commit": "2022-11-14T14:34:53Z",
             "owner": "KuangPF",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146863744,
             "language": "JavaScript",
             "last_commit": "2022-12-08T11:35:32Z",
             "owner": "Rychou",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 125018673,
             "language": "Vue",
             "last_commit": "2019-02-17T08:34:51Z",
             "owner": "armyja",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125371540,
             "language": "Vue",
             "last_commit": "2018-07-01T14:25:44Z",
             "owner": "youngluo",
@@ -181,7 +193,7 @@
       "title": "框架"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78767526,
             "language": "JavaScript",
             "last_commit": "2023-03-23T12:07:12Z",
             "owner": "we-plugin",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136304438,
             "language": "Vue",
             "last_commit": "2023-02-19T07:56:56Z",
             "owner": "Hzy0913",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125069248,
             "language": "Vue",
             "last_commit": "2019-06-25T04:03:28Z",
             "owner": "F-loat",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125385217,
             "language": "Vue",
             "last_commit": "2024-04-12T02:57:33Z",
             "owner": "F-loat",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132630793,
             "language": "Vue",
             "last_commit": "2022-12-10T22:20:02Z",
             "owner": "MPComponent",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124667215,
             "language": "JavaScript",
             "last_commit": "2018-03-12T16:46:29Z",
             "owner": "steinslin",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131414421,
             "language": "JavaScript",
             "last_commit": "2018-04-30T09:13:00Z",
             "owner": "gaomd",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141986832,
             "language": "JavaScript",
             "last_commit": "2018-08-08T06:09:18Z",
             "owner": "huangjinlin",
@@ -302,24 +322,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 138626503,
             "language": "JavaScript",
             "last_commit": "2018-09-17T11:30:43Z",
             "owner": "dwqs",
             "repo": "mpvue-markdown-parser",
             "stars": 8
           }
-        },
-        {
-          "node_type": "item",
-          "title": "mpvue-slide",
-          "description": "图片滑动组件",
-          "children": []
         }
       ],
       "title": "组件"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -328,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124535960,
             "language": "Vue",
             "last_commit": "2022-12-09T04:53:26Z",
             "owner": "F-loat",
@@ -342,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127271052,
             "language": "JavaScript",
             "last_commit": "2022-12-08T00:37:25Z",
             "owner": "mini-mpvue",
@@ -356,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137576896,
             "language": "Vue",
             "last_commit": "2019-01-15T06:37:02Z",
             "owner": "WsmDyj",
@@ -370,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133488498,
             "language": "JavaScript",
             "last_commit": "2018-07-27T09:00:58Z",
             "owner": "zz570557024",
@@ -384,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126043312,
             "language": "JavaScript",
             "last_commit": "2022-12-09T14:50:58Z",
             "owner": "WingGao",
@@ -398,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137322492,
             "language": "JavaScript",
             "last_commit": "2019-06-10T08:55:30Z",
             "owner": "wkl007",
@@ -412,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161619308,
             "language": "Vue",
             "last_commit": "2019-06-10T09:02:36Z",
             "owner": "wkl007",
@@ -426,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 131682349,
             "language": "Vue",
             "last_commit": "2018-09-17T16:14:19Z",
             "owner": "dwqs",
@@ -440,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146674064,
             "language": "Vue",
             "last_commit": "2024-08-27T22:17:09Z",
             "owner": "hualuoyixiao",
@@ -454,24 +478,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124825254,
             "language": "JavaScript",
             "last_commit": "2018-03-12T02:55:27Z",
             "owner": "tangsj",
             "repo": "mpvue-todolist",
             "stars": 15
           }
-        },
-        {
-          "node_type": "item",
-          "title": "mpvue-cnode",
-          "description": "CNode 社区",
-          "children": []
         }
       ],
       "title": "示例"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -480,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129056887,
             "language": "JavaScript",
             "last_commit": "2019-07-27T02:59:59Z",
             "owner": "F-loat",
@@ -494,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124370363,
             "language": "JavaScript",
             "last_commit": "2020-07-23T14:54:00Z",
             "owner": "mpvue",
@@ -508,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133017388,
             "language": "JavaScript",
             "last_commit": "2020-04-28T09:50:47Z",
             "owner": "spencer1994",
@@ -522,32 +544,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148432876,
             "language": "JavaScript",
             "last_commit": "2019-04-17T07:24:37Z",
             "owner": "ivanlee93",
             "repo": "mpvue-cli",
             "stars": 41
           }
-        },
-        {
-          "node_type": "item",
-          "title": "dwqs/webpack-mpvue-startup",
-          "description": "Webpack 3 + Mpvue 1",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "blackjack0v0/mpvuesimple-quickstart",
-          "description": "改造于 mpvue-simple-cli 与 import-weapp-component，支持引入原生小程序组件的快速搭建脚手架",
-          "children": []
         }
       ],
       "title": "模板"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:03:32.779Z",
+    "last_updated": "2026-08-19T12:45:16.360Z",
     "original_repository": "mpvue/awesome-mpvue",
+    "original_repository_id": 125079315,
     "original_repository_sha": "78d437436f71a21cf3872822c481ef1358959fd8",
     "enhanced_repository": "enhansome/enhansome-mpvue",
     "enhanced_repository_description": null,
