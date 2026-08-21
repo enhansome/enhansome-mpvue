@@ -37,7 +37,7 @@
 
 ## 组件
 
-* [we-cropper](https://github.com/we-plugin/we-cropper) ⭐ 2,203 | 🐛 51 | 🌐 JavaScript | 📅 2023-03-23 - 图片裁剪组件
+* [we-cropper](https://github.com/we-plugin/we-cropper) ⭐ 2,204 | 🐛 51 | 🌐 JavaScript | 📅 2023-03-23 - 图片裁剪组件
 * [mpvue-calendar](https://github.com/Hzy0913/mpvue-calendar) ⭐ 539 | 🐛 56 | 🌐 Vue | 📅 2023-02-19 - 日历组件
 * [mpvue-wxParse](https://github.com/F-loat/mpvue-wxParse) ⭐ 378 | 🐛 33 | 🌐 Vue | 📅 2019-06-25 - 富文本组件
 * [mpvue-echarts](https://github.com/F-loat/mpvue-echarts) ⭐ 334 | 🐛 33 | 🌐 Vue | 📅 2024-04-12 - 图表组件
@@ -73,4 +73,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
