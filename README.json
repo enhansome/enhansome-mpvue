@@ -207,7 +207,7 @@
             "last_commit": "2023-03-23T12:07:12Z",
             "owner": "we-plugin",
             "repo": "we-cropper",
-            "stars": 2204
+            "stars": 2203
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2024-04-12T02:57:33Z",
             "owner": "F-loat",
             "repo": "mpvue-echarts",
-            "stars": 334
+            "stars": 335
           }
         },
         {
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:05:31.790Z",
+    "last_updated": "2026-08-22T06:57:27.880Z",
     "original_repository": "mpvue/awesome-mpvue",
     "original_repository_id": 125079315,
     "original_repository_sha": "78d437436f71a21cf3872822c481ef1358959fd8",
