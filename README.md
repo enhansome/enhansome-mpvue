@@ -38,7 +38,7 @@
 ## 组件
 
 * [we-cropper](https://github.com/we-plugin/we-cropper) ⭐ 2,203 | 🐛 51 | 🌐 JavaScript | 📅 2023-03-23 - 图片裁剪组件
-* [mpvue-calendar](https://github.com/Hzy0913/mpvue-calendar) ⭐ 539 | 🐛 56 | 🌐 Vue | 📅 2023-02-19 - 日历组件
+* [mpvue-calendar](https://github.com/Hzy0913/mpvue-calendar) ⭐ 538 | 🐛 56 | 🌐 Vue | 📅 2023-02-19 - 日历组件
 * [mpvue-wxParse](https://github.com/F-loat/mpvue-wxParse) ⭐ 378 | 🐛 33 | 🌐 Vue | 📅 2019-06-25 - 富文本组件
 * [mpvue-echarts](https://github.com/F-loat/mpvue-echarts) ⭐ 335 | 🐛 33 | 🌐 Vue | 📅 2024-04-12 - 图表组件
 * [mpvue-picker](https://github.com/KuangPF/mpvue-picker) ⭐ 170 | 🐛 20 | 🌐 Vue | 📅 2022-12-10 - 小程序选择组件
@@ -64,7 +64,7 @@
 
 ## 模板
 
-* [F-loat/mpvue-quickstart](https://github.com/F-loat/mpvue-quickstart) ⭐ 173 | 🐛 6 | 🌐 JavaScript | 📅 2019-07-27 - 使用 mpvue-entry 配置入口，支持新增页面热更新
+* [F-loat/mpvue-quickstart](https://github.com/F-loat/mpvue-quickstart) ⭐ 172 | 🐛 6 | 🌐 JavaScript | 📅 2019-07-27 - 使用 mpvue-entry 配置入口，支持新增页面热更新
 * [mpvue/mpvue-quickstart](https://github.com/mpvue/mpvue-quickstart) ⭐ 108 | 🐛 2 | 🌐 JavaScript | 📅 2020-07-23 - quickstart
 * [spencer1994/mpvue-cli](https://github.com/spencer1994/mpvue-cli) ⭐ 58 | 🐛 1 | 🌐 JavaScript | 📅 2020-04-28 - 对官方模版进行改造，使得开发更接近于vue的风格。
 * [ivanlee93/mpvue-cli](https://github.com/ivanlee93/mpvue-cli) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-17 - 整合优秀插件，使开发风格更接近 Vue/Vuex。
@@ -73,4 +73,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
