@@ -557,9 +557,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:07:07.464Z",
-    "original_repository": "mpvue/awesome-mpvue",
-    "original_repository_id": 125079315,
+    "last_updated": "2026-08-27T11:54:39.325Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 125079315,
+      "language": null,
+      "last_commit": "2019-03-17T08:23:01Z",
+      "owner": "mpvue",
+      "repo": "awesome-mpvue",
+      "stars": 1053
+    },
     "original_repository_sha": "78d437436f71a21cf3872822c481ef1358959fd8",
     "enhanced_repository": "enhansome/enhansome-mpvue",
     "enhanced_repository_description": null,
