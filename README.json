@@ -16,7 +16,8 @@
             "owner": "wendux",
             "repo": "fly",
             "stars": 3927
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "F-loat",
             "repo": "mpvue-entry",
             "stars": 349
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "bigmeow",
             "repo": "minapp-api-promise",
             "stars": 319
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "F-loat",
             "repo": "mpvue-router-patch",
             "stars": 301
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "jessejyang",
             "repo": "import-weapp-component",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "F-loat",
             "repo": "mpvue-packager",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "F-loat",
             "repo": "mpvue-config-loader",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "Cweili",
             "repo": "vue-router-mp",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         }
       ],
       "title": "工具"
@@ -142,7 +150,8 @@
             "owner": "KuangPF",
             "repo": "mpvue-weui",
             "stars": 1446
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "Rychou",
             "repo": "mpvue-vant",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "armyja",
             "repo": "mpvue-zanui",
             "stars": 331
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "youngluo",
             "repo": "mp-weui",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         }
       ],
       "title": "框架"
@@ -208,7 +220,8 @@
             "owner": "we-plugin",
             "repo": "we-cropper",
             "stars": 2203
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "Hzy0913",
             "repo": "mpvue-calendar",
             "stars": 538
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "F-loat",
             "repo": "mpvue-wxParse",
             "stars": 378
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "F-loat",
             "repo": "mpvue-echarts",
             "stars": 335
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "MPComponent",
             "repo": "mpvue-picker",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "steinslin",
             "repo": "mpvue-toast",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "gaomd",
             "repo": "mpvue-animated-number",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "huangjinlin",
             "repo": "mpvue-img-load",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "dwqs",
             "repo": "mpvue-markdown-parser",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         }
       ],
       "title": "组件"
@@ -349,7 +370,8 @@
             "owner": "F-loat",
             "repo": "ithome-lite",
             "stars": 526
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "mini-mpvue",
             "repo": "mpvue-douban",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "WsmDyj",
             "repo": "mpvue",
             "stars": 288
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "zz570557024",
             "repo": "vue-mpvue-ChatRobot",
             "stars": 266
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "WingGao",
             "repo": "mpvue-ts-demo",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "wkl007",
             "repo": "mpvue-iview-weapp",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "wkl007",
             "repo": "mpvue-market",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "dwqs",
             "repo": "mp-jithub",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "hualuoyixiao",
             "repo": "wechat-wordpress-blog-mpvue",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "tangsj",
             "repo": "mpvue-todolist",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         }
       ],
       "title": "示例"
@@ -505,7 +536,8 @@
             "owner": "F-loat",
             "repo": "mpvue-quickstart",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "mpvue",
             "repo": "mpvue-quickstart",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "spencer1994",
             "repo": "mpvue-cli",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         },
         {
           "node_type": "item",
@@ -550,14 +584,15 @@
             "owner": "ivanlee93",
             "repo": "mpvue-cli",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T18:38:27.198Z"
         }
       ],
       "title": "模板"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:36:21.476Z",
+    "last_updated": "2026-08-28T18:38:27.198Z",
     "original_repository_info": {
       "archived": false,
       "id": 125079315,
