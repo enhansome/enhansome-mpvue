@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: Supporting request forwarding and Promise based HTTP client for all JavaScript runtimes.",
+            "homepage": "https://wendux.github.io/dist/#/language",
             "id": 103761921,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-07-26T04:59:50Z",
+            "open_issues": 91,
             "owner": "wendux",
             "repo": "fly",
-            "stars": 3927
+            "stars": 3927,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -26,12 +31,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⛓️ 集中式页面配置，统一构建入口，支持新增页面热更新",
+            "homepage": null,
             "id": 127411040,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-03T09:10:13Z",
+            "open_issues": 22,
             "owner": "F-loat",
             "repo": "mpvue-entry",
-            "stars": 349
+            "stars": 349,
+            "topics": [
+              "entry",
+              "mpvue",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":hammer:微信小程序所有API promise化，支持await、支持请求列队、支持拦截小程序所有API",
+            "homepage": null,
             "id": 126448844,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-03-29T03:31:17Z",
+            "open_issues": 9,
             "owner": "bigmeow",
             "repo": "minapp-api-promise",
-            "stars": 319
+            "stars": 319,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -58,12 +77,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛴在 mpvue 中使用 vue-router 兼容的路由写法",
+            "homepage": null,
             "id": 127766694,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-03-05T08:09:33Z",
+            "open_issues": 10,
             "owner": "F-loat",
             "repo": "mpvue-router-patch",
-            "stars": 301
+            "stars": 301,
+            "topics": [
+              "mpvue",
+              "router",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -74,12 +102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "import weapp components webpack plugin",
+            "homepage": null,
             "id": 139562468,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-04T12:22:04Z",
+            "open_issues": 3,
             "owner": "jessejyang",
             "repo": "import-weapp-component",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -90,12 +123,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛠 集成构建工具，双端支持",
+            "homepage": null,
             "id": 153143433,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-02-20T10:09:07Z",
+            "open_issues": 0,
             "owner": "F-loat",
             "repo": "mpvue-packager",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "builder",
+              "cli",
+              "mpvue",
+              "packager",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -106,12 +150,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏷 单文件页面配置，支持全局组件引用",
+            "homepage": null,
             "id": 155371139,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-20T11:26:08Z",
+            "open_issues": 0,
             "owner": "F-loat",
             "repo": "mpvue-config-loader",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "config",
+              "loader",
+              "mpvue"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -122,12 +175,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚦 mpvue 中使用的 vue-router 兼容路由，兼容大部分 vue-router API，含导航守卫、命名路由等",
+            "homepage": "https://cweili.gitee.io/vue-router-mp/",
             "id": 172035539,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-12-04T21:33:19Z",
+            "open_issues": 1,
             "owner": "Cweili",
             "repo": "vue-router-mp",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "miniprogram",
+              "mpvue",
+              "route",
+              "router",
+              "routes",
+              "vue",
+              "vuejs",
+              "weapp",
+              "wechat",
+              "wx",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         }
@@ -144,12 +214,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "用 vue 写小程序，基于 mpvue 框架重写 weui。",
+            "homepage": null,
             "id": 124478936,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2022-11-14T14:34:53Z",
+            "open_issues": 1,
             "owner": "KuangPF",
             "repo": "mpvue-weui",
-            "stars": 1446
+            "stars": 1446,
+            "topics": [
+              "mpvue",
+              "vue",
+              "weui",
+              "weui-wxss",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -160,12 +241,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mpvue中无缝接入Vant Weapp组件库，所有组件均可使用。",
+            "homepage": null,
             "id": 146863744,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-08T11:35:32Z",
+            "open_issues": 24,
             "owner": "Rychou",
             "repo": "mpvue-vant",
-            "stars": 401
+            "stars": 401,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -176,12 +262,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "使用 mpvue 框架重写 zanui。",
+            "homepage": null,
             "id": 125018673,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2019-02-17T08:34:51Z",
+            "open_issues": 5,
             "owner": "armyja",
             "repo": "mpvue-zanui",
-            "stars": 331
+            "stars": 331,
+            "topics": [
+              "mpvue",
+              "vue",
+              "zanui",
+              "zanui-weapp"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -192,12 +288,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mp-weui 是基于 mpvue 和 weui-wxss 的微信小程序 UI 库。",
+            "homepage": "https://youngluo.github.io/mp-weui",
             "id": 125371540,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2018-07-01T14:25:44Z",
+            "open_issues": 4,
             "owner": "youngluo",
             "repo": "mp-weui",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "mp-weui",
+              "mpvue",
+              "weui",
+              "weui-wxss"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         }
@@ -214,12 +320,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序图片裁剪工具",
+            "homepage": "https://we-plugin.github.io/we-cropper/#/",
             "id": 78767526,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-23T12:07:12Z",
+            "open_issues": 51,
             "owner": "we-plugin",
             "repo": "we-cropper",
-            "stars": 2203
+            "stars": 2203,
+            "topics": [
+              "canvas",
+              "cropper",
+              "mpvue",
+              "mpvue-cropper",
+              "mpvue-examples",
+              "weapp",
+              "wechat",
+              "wepy",
+              "wxapp",
+              "wxcropper"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -230,12 +352,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📅 A calendar component for vue3.0. Support gesture sliding, range selection, according to the week switch...",
+            "homepage": "http://preview.binlive.cn/mpvue-calendar#/",
             "id": 136304438,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-02-19T07:56:56Z",
+            "open_issues": 56,
             "owner": "Hzy0913",
             "repo": "mpvue-calendar",
-            "stars": 538
+            "stars": 538,
+            "topics": [
+              "calendar",
+              "chinese-lunar",
+              "mpvue",
+              "mpvue-calendar",
+              "vue",
+              "vue-calendar",
+              "vue-component",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -246,12 +382,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📰适用于 Mpvue 的微信小程序富文本解析自定义组件",
+            "homepage": null,
             "id": 125069248,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2019-06-25T04:03:28Z",
+            "open_issues": 33,
             "owner": "F-loat",
             "repo": "mpvue-wxParse",
-            "stars": 378
+            "stars": 378,
+            "topics": [
+              "mpvue",
+              "mpvue-wxparse",
+              "wxapp",
+              "wxparse"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -262,12 +408,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📈 适用于 mpvue 的 echarts 组件",
+            "homepage": null,
             "id": 125385217,
             "language": "Vue",
+            "license": null,
             "last_commit": "2024-04-12T02:57:33Z",
+            "open_issues": 33,
             "owner": "F-loat",
             "repo": "mpvue-echarts",
-            "stars": 335
+            "stars": 335,
+            "topics": [
+              "echarts",
+              "mpvue",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -278,12 +433,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 mpvue 框架的小程序选择控件，支持单列，多列，联动。",
+            "homepage": null,
             "id": 132630793,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2022-12-10T22:20:02Z",
+            "open_issues": 20,
             "owner": "MPComponent",
             "repo": "mpvue-picker",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "javascript",
+              "mpvue",
+              "picker",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -294,12 +459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mpvue-toast is a toast plugin for mpvue.",
+            "homepage": null,
             "id": 124667215,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-12T16:46:29Z",
+            "open_issues": 2,
             "owner": "steinslin",
             "repo": "mpvue-toast",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -310,12 +480,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序 mpvue 数字更新滚动动画组件 / An animated number component for mpvue",
+            "homepage": null,
             "id": 131414421,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-04-30T09:13:00Z",
+            "open_issues": 2,
             "owner": "gaomd",
             "repo": "mpvue-animated-number",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "mpvue",
+              "wechat",
+              "wechat-app",
+              "wechat-mini-program",
+              "wxmp"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -326,12 +507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a image pre-loader for mpvue",
+            "homepage": null,
             "id": 141986832,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-08-08T06:09:18Z",
+            "open_issues": 4,
             "owner": "huangjinlin",
             "repo": "mpvue-img-load",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -342,12 +528,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A markdown parser for mpvue",
+            "homepage": null,
             "id": 138626503,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-09-17T11:30:43Z",
+            "open_issues": 0,
             "owner": "dwqs",
             "repo": "mpvue-markdown-parser",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "markdown",
+              "mpvue",
+              "mpvue-markdown",
+              "mpvue-markdown-parser",
+              "wx",
+              "wx-markdown",
+              "wx-markdown-parser"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         }
@@ -364,12 +563,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥛 IT之家第三方小程序版客户端（使用 mpvue 开发，兼容 web）",
+            "homepage": null,
             "id": 124535960,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2022-12-09T04:53:26Z",
+            "open_issues": 19,
             "owner": "F-loat",
             "repo": "ithome-lite",
-            "stars": 526
+            "stars": 526,
+            "topics": [
+              "demo",
+              "ithome",
+              "miniapp",
+              "mpvue",
+              "mpvue-entry",
+              "mpvue-web",
+              "wxapp",
+              "wxmp"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -380,12 +593,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 mpvue 实现豆瓣电影微信小程序 @zce",
+            "homepage": null,
             "id": 127271052,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-08T00:37:25Z",
+            "open_issues": 24,
             "owner": "mini-mpvue",
             "repo": "mpvue-douban",
-            "stars": 290
+            "stars": 290,
+            "topics": [
+              "douban",
+              "film",
+              "mini-program",
+              "mpvue",
+              "mpvue-douban",
+              "mpvue-douban-movie",
+              "wx"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -396,12 +622,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍉Mpvue meituan takeout (third party) open source program",
+            "homepage": null,
             "id": 137576896,
             "language": "Vue",
+            "license": null,
             "last_commit": "2019-01-15T06:37:02Z",
+            "open_issues": 15,
             "owner": "WsmDyj",
             "repo": "mpvue",
-            "stars": 288
+            "stars": 288,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -412,12 +643,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "㊙A chat robot for web & Wechat producted by vue+mpvue+nodejs.",
+            "homepage": null,
             "id": 133488498,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-07-27T09:00:58Z",
+            "open_issues": 1,
             "owner": "zz570557024",
             "repo": "vue-mpvue-ChatRobot",
-            "stars": 266
+            "stars": 266,
+            "topics": [
+              "chat",
+              "echarts",
+              "mpvue",
+              "vue",
+              "vue-mpvue",
+              "vuex",
+              "wxapp",
+              "wxmp"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -428,12 +673,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Mpvue demo project with TypeScript. Mpvue搭配TypeScript也是妥妥的。",
+            "homepage": null,
             "id": 126043312,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-09T14:50:58Z",
+            "open_issues": 13,
             "owner": "WingGao",
             "repo": "mpvue-ts-demo",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "mp",
+              "mpvue",
+              "ts",
+              "typescript",
+              "wxmp"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -444,12 +700,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用mpvue导入iview-weapp",
+            "homepage": null,
             "id": 137322492,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-06-10T08:55:30Z",
+            "open_issues": 0,
             "owner": "wkl007",
             "repo": "mpvue-iview-weapp",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "iview-weapp",
+              "mpvue"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -460,12 +724,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mpvue 小程序营销组件",
+            "homepage": null,
             "id": 161619308,
             "language": "Vue",
+            "license": null,
             "last_commit": "2019-06-10T09:02:36Z",
+            "open_issues": 0,
             "owner": "wkl007",
             "repo": "mpvue-market",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "javascript",
+              "mpvue"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -476,12 +748,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Mini program for Github",
+            "homepage": null,
             "id": 131682349,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2018-09-17T16:14:19Z",
+            "open_issues": 0,
             "owner": "dwqs",
             "repo": "mp-jithub",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "github",
+              "jithub",
+              "mini-program"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -492,12 +773,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于mpvue开发wordpress版微信小程序",
+            "homepage": "https://blog.linchaokun.cn",
             "id": 146674064,
             "language": "Vue",
+            "license": null,
             "last_commit": "2024-08-27T22:17:09Z",
+            "open_issues": 2,
             "owner": "hualuoyixiao",
             "repo": "wechat-wordpress-blog-mpvue",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "fly",
+              "mpvue",
+              "vant",
+              "vue",
+              "wordpress",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -508,12 +801,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "简单的体验一下mpvue",
+            "homepage": null,
             "id": 124825254,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-12T02:55:27Z",
+            "open_issues": 0,
             "owner": "tangsj",
             "repo": "mpvue-todolist",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         }
@@ -530,12 +828,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐱‍👤 更优雅的 mpvue 起手式",
+            "homepage": "http://mpvue.com/mpvue/quickstart",
             "id": 129056887,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-07-27T02:59:59Z",
+            "open_issues": 6,
             "owner": "F-loat",
             "repo": "mpvue-quickstart",
-            "stars": 172
+            "stars": 172,
+            "topics": [
+              "mpvue",
+              "mpvue-entry",
+              "quickstart",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -546,12 +854,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mpvue quickstart",
+            "homepage": "http://mpvue.com/mpvue/quickstart/",
             "id": 124370363,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-07-23T14:54:00Z",
+            "open_issues": 2,
             "owner": "mpvue",
             "repo": "mpvue-quickstart",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "mpvue",
+              "vue",
+              "wxmp"
+            ]
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -562,12 +879,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "对mpvue官方quick-start的模版的开发基础搭建。",
+            "homepage": null,
             "id": 133017388,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-04-28T09:50:47Z",
+            "open_issues": 1,
             "owner": "spencer1994",
             "repo": "mpvue-cli",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         },
@@ -578,12 +900,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "对mpvue官方quick-start的模版进行优化改造，更新",
+            "homepage": null,
             "id": 148432876,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-04-17T07:24:37Z",
+            "open_issues": 0,
             "owner": "ivanlee93",
             "repo": "mpvue-cli",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
         }
@@ -592,15 +919,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:38:27.198Z",
+    "last_updated": "2026-08-29T04:33:57.939Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things related to mpvue",
+      "homepage": null,
       "id": 125079315,
       "language": null,
+      "license": null,
       "last_commit": "2019-03-17T08:23:01Z",
+      "open_issues": 0,
       "owner": "mpvue",
       "repo": "awesome-mpvue",
-      "stars": 1053
+      "stars": 1053,
+      "topics": [
+        "awesome",
+        "mpvue",
+        "weapp",
+        "wxmp"
+      ]
     },
     "original_repository_sha": "78d437436f71a21cf3872822c481ef1358959fd8",
     "enhanced_repository": "enhansome/enhansome-mpvue",
