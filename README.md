@@ -30,14 +30,14 @@
 
 ## 框架
 
-* [WeUI](https://github.com/KuangPF/wxapp-vue) ⭐ 1,446 | 🐛 1 | 🌐 Vue | 📅 2022-11-14 - 用 vue 写小程序，基于 mpvue 框架重写 weui。
+* [WeUI](https://github.com/KuangPF/wxapp-vue) ⭐ 1,445 | 🐛 1 | 🌐 Vue | 📅 2022-11-14 - 用 vue 写小程序，基于 mpvue 框架重写 weui。
 * [mpvue-vant](https://github.com/xxxsimons/mpvue-vant) ⭐ 401 | 🐛 24 | 🌐 JavaScript | 📅 2022-12-08 - mpvue中无缝接入 [Vant Weapp](https://youzan.github.io/vant-weapp/#/intro) 组件库
 * [mpvue-zanui](https://github.com/samwang1027/mpvue-zanui) ⚠️ Archived - 使用 mpvue 框架重写 zanui。
 * [mp-weui](https://github.com/youngluo/mp-weui) ⭐ 160 | 🐛 4 | 🌐 Vue | 📅 2018-07-01 - 基于 mpvue 和 weui-wxss 封装的小程序 UI 库。
 
 ## 组件
 
-* [we-cropper](https://github.com/we-plugin/we-cropper) ⭐ 2,203 | 🐛 51 | 🌐 JavaScript | 📅 2023-03-23 - 图片裁剪组件
+* [we-cropper](https://github.com/we-plugin/we-cropper) ⭐ 2,202 | 🐛 51 | 🌐 JavaScript | 📅 2023-03-23 - 图片裁剪组件
 * [mpvue-calendar](https://github.com/Hzy0913/mpvue-calendar) ⭐ 538 | 🐛 56 | 🌐 Vue | 📅 2023-02-19 - 日历组件
 * [mpvue-wxParse](https://github.com/F-loat/mpvue-wxParse) ⭐ 378 | 🐛 33 | 🌐 Vue | 📅 2019-06-25 - 富文本组件
 * [mpvue-echarts](https://github.com/F-loat/mpvue-echarts) ⭐ 335 | 🐛 33 | 🌐 Vue | 📅 2024-04-12 - 图表组件
@@ -73,4 +73,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
