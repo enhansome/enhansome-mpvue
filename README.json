@@ -19,7 +19,7 @@
             "open_issues": 91,
             "owner": "wendux",
             "repo": "fly",
-            "stars": 3927,
+            "stars": 3926,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T11:13:47.680Z",
+    "last_updated": "2026-09-03T11:09:44.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",
