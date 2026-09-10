@@ -19,7 +19,7 @@
             "open_issues": 91,
             "owner": "wendux",
             "repo": "fly",
-            "stars": 3926,
+            "stars": 3925,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
@@ -442,7 +442,7 @@
             "open_issues": 20,
             "owner": "MPComponent",
             "repo": "mpvue-picker",
-            "stars": 170,
+            "stars": 169,
             "topics": [
               "javascript",
               "mpvue",
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:18:09.014Z",
+    "last_updated": "2026-09-10T11:14:43.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",

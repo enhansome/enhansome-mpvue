@@ -19,7 +19,7 @@
 
 ## 工具
 
-* [flyio](https://github.com/wendux/fly/blob/master/README-CH.md) ⭐ 3,926 | 🐛 91 | 🌐 JavaScript | 📅 2022-07-26 - 同时支持浏览器、小程序、Node、Weex 的基于 Promise 的跨平台 http 请求库。可以让您在多个端上尽可能大限度的实现代码复用。
+* [flyio](https://github.com/wendux/fly/blob/master/README-CH.md) ⭐ 3,925 | 🐛 91 | 🌐 JavaScript | 📅 2022-07-26 - 同时支持浏览器、小程序、Node、Weex 的基于 Promise 的跨平台 http 请求库。可以让您在多个端上尽可能大限度的实现代码复用。
 * [mpvue-entry](https://github.com/F-loat/mpvue-entry) ⭐ 349 | 🐛 22 | 🌐 JavaScript | 📅 2022-12-03 - 集中式页面配置，避免重复编辑各页面的 main.js 文件，优化目录结构。
 * [minapp-api-promise](https://github.com/bigmeow/minapp-api-promise) ⚠️ Archived - 将所有异步微信小程序 API promise 化，支持 then/catch、async/await 的方式调用小程序 API，支持请求队列，支持对原生 API 进行拦截。
 * [mpvue-router-patch](https://github.com/F-loat/mpvue-router-patch) ⭐ 301 | 🐛 10 | 🌐 JavaScript | 📅 2019-03-05 - 在 mpvue 中使用 vue-router 兼容的路由写法。
@@ -41,7 +41,7 @@
 * [mpvue-calendar](https://github.com/Hzy0913/mpvue-calendar) ⭐ 538 | 🐛 56 | 🌐 Vue | 📅 2023-02-19 - 日历组件
 * [mpvue-wxParse](https://github.com/F-loat/mpvue-wxParse) ⭐ 378 | 🐛 33 | 🌐 Vue | 📅 2019-06-25 - 富文本组件
 * [mpvue-echarts](https://github.com/F-loat/mpvue-echarts) ⭐ 335 | 🐛 33 | 🌐 Vue | 📅 2024-04-12 - 图表组件
-* [mpvue-picker](https://github.com/KuangPF/mpvue-picker) ⭐ 170 | 🐛 20 | 🌐 Vue | 📅 2022-12-10 - 小程序选择组件
+* [mpvue-picker](https://github.com/KuangPF/mpvue-picker) ⭐ 169 | 🐛 20 | 🌐 Vue | 📅 2022-12-10 - 小程序选择组件
 * [mpvue-toast](https://github.com/linrui1994/mpvue-toast) ⭐ 45 | 🐛 2 | 🌐 JavaScript | 📅 2018-03-12 - toast 组件
 * [mpvue-animated-number](https://github.com/gaomd/mpvue-animated-number) ⭐ 33 | 🐛 2 | 🌐 JavaScript | 📅 2018-04-30 - 数字更新滚动动画组件
 * [mpvue-img-load](https://github.com/huangjinlin/mpvue-img-load) ⭐ 25 | 🐛 4 | 🌐 JavaScript | 📅 2018-08-08 - 图片预加载组件
@@ -73,4 +73,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
