@@ -417,7 +417,7 @@
             "open_issues": 33,
             "owner": "F-loat",
             "repo": "mpvue-echarts",
-            "stars": 335,
+            "stars": 336,
             "topics": [
               "echarts",
               "mpvue",
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T11:40:15.907Z",
+    "last_updated": "2026-09-16T11:27:44.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",
