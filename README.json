@@ -19,7 +19,7 @@
             "open_issues": 91,
             "owner": "wendux",
             "repo": "fly",
-            "stars": 3923,
+            "stars": 3924,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
@@ -361,7 +361,7 @@
             "open_issues": 56,
             "owner": "Hzy0913",
             "repo": "mpvue-calendar",
-            "stars": 538,
+            "stars": 541,
             "topics": [
               "calendar",
               "chinese-lunar",
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T11:37:17.593Z",
+    "last_updated": "2026-09-18T11:09:40.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",
