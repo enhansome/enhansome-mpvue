@@ -329,7 +329,7 @@
             "open_issues": 51,
             "owner": "we-plugin",
             "repo": "we-cropper",
-            "stars": 2202,
+            "stars": 2201,
             "topics": [
               "canvas",
               "cropper",
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T12:43:04.983Z",
+    "last_updated": "2026-09-22T11:33:55.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",
