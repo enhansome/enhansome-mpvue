@@ -30,7 +30,7 @@
 
 ## 框架
 
-* [WeUI](https://github.com/KuangPF/wxapp-vue) ⭐ 1,445 | 🐛 1 | 🌐 Vue | 📅 2022-11-14 - 用 vue 写小程序，基于 mpvue 框架重写 weui。
+* [WeUI](https://github.com/KuangPF/wxapp-vue) ⭐ 1,444 | 🐛 1 | 🌐 Vue | 📅 2022-11-14 - 用 vue 写小程序，基于 mpvue 框架重写 weui。
 * [mpvue-vant](https://github.com/xxxsimons/mpvue-vant) ⭐ 401 | 🐛 24 | 🌐 JavaScript | 📅 2022-12-08 - mpvue中无缝接入 [Vant Weapp](https://youzan.github.io/vant-weapp/#/intro) 组件库
 * [mpvue-zanui](https://github.com/samwang1027/mpvue-zanui) ⚠️ Archived - 使用 mpvue 框架重写 zanui。
 * [mp-weui](https://github.com/youngluo/mp-weui) ⭐ 160 | 🐛 4 | 🌐 Vue | 📅 2018-07-01 - 基于 mpvue 和 weui-wxss 封装的小程序 UI 库。
@@ -73,4 +73,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
