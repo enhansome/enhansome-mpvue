@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2022-07-26T04:59:50Z",
-            "open_issues": 91,
+            "open_issues": 90,
             "owner": "wendux",
             "repo": "fly",
             "stars": 3924,
@@ -329,7 +329,7 @@
             "open_issues": 51,
             "owner": "we-plugin",
             "repo": "we-cropper",
-            "stars": 2201,
+            "stars": 2202,
             "topics": [
               "canvas",
               "cropper",
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T11:30:20.183Z",
+    "last_updated": "2026-09-24T11:40:37.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",
