@@ -391,7 +391,7 @@
             "open_issues": 33,
             "owner": "F-loat",
             "repo": "mpvue-wxParse",
-            "stars": 378,
+            "stars": 377,
             "topics": [
               "mpvue",
               "mpvue-wxparse",
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T11:40:37.082Z",
+    "last_updated": "2026-09-25T11:46:53.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",
