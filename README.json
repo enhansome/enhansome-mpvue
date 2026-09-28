@@ -19,7 +19,7 @@
             "open_issues": 90,
             "owner": "wendux",
             "repo": "fly",
-            "stars": 3924,
+            "stars": 3923,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
@@ -223,7 +223,7 @@
             "open_issues": 1,
             "owner": "KuangPF",
             "repo": "mpvue-weui",
-            "stars": 1444,
+            "stars": 1442,
             "topics": [
               "mpvue",
               "vue",
@@ -329,7 +329,7 @@
             "open_issues": 51,
             "owner": "we-plugin",
             "repo": "we-cropper",
-            "stars": 2202,
+            "stars": 2201,
             "topics": [
               "canvas",
               "cropper",
@@ -361,7 +361,7 @@
             "open_issues": 56,
             "owner": "Hzy0913",
             "repo": "mpvue-calendar",
-            "stars": 542,
+            "stars": 541,
             "topics": [
               "calendar",
               "chinese-lunar",
@@ -442,7 +442,7 @@
             "open_issues": 20,
             "owner": "MPComponent",
             "repo": "mpvue-picker",
-            "stars": 169,
+            "stars": 168,
             "topics": [
               "javascript",
               "mpvue",
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T11:58:07.939Z",
+    "last_updated": "2026-09-28T13:47:50.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",
@@ -931,7 +931,7 @@
       "open_issues": 0,
       "owner": "mpvue",
       "repo": "awesome-mpvue",
-      "stars": 1053,
+      "stars": 1052,
       "topics": [
         "awesome",
         "mpvue",
