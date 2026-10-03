@@ -64,7 +64,7 @@
 
 ## 模板
 
-* [F-loat/mpvue-quickstart](https://github.com/F-loat/mpvue-quickstart) ⭐ 173 | 🐛 6 | 🌐 JavaScript | 📅 2019-07-27 - 使用 mpvue-entry 配置入口，支持新增页面热更新
+* [F-loat/mpvue-quickstart](https://github.com/F-loat/mpvue-quickstart) ⭐ 172 | 🐛 6 | 🌐 JavaScript | 📅 2019-07-27 - 使用 mpvue-entry 配置入口，支持新增页面热更新
 * [mpvue/mpvue-quickstart](https://github.com/mpvue/mpvue-quickstart) ⭐ 108 | 🐛 2 | 🌐 JavaScript | 📅 2020-07-23 - quickstart
 * [spencer1994/mpvue-cli](https://github.com/spencer1994/mpvue-cli) ⭐ 58 | 🐛 1 | 🌐 JavaScript | 📅 2020-04-28 - 对官方模版进行改造，使得开发更接近于vue的风格。
 * [ivanlee93/mpvue-cli](https://github.com/ivanlee93/mpvue-cli) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-17 - 整合优秀插件，使开发风格更接近 Vue/Vuex。
@@ -73,4 +73,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
