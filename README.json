@@ -19,7 +19,7 @@
             "open_issues": 90,
             "owner": "wendux",
             "repo": "fly",
-            "stars": 3921,
+            "stars": 3920,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
@@ -223,7 +223,7 @@
             "open_issues": 1,
             "owner": "KuangPF",
             "repo": "mpvue-weui",
-            "stars": 1442,
+            "stars": 1441,
             "topics": [
               "mpvue",
               "vue",
@@ -329,7 +329,7 @@
             "open_issues": 51,
             "owner": "we-plugin",
             "repo": "we-cropper",
-            "stars": 2200,
+            "stars": 2199,
             "topics": [
               "canvas",
               "cropper",
@@ -682,7 +682,7 @@
             "open_issues": 13,
             "owner": "WingGao",
             "repo": "mpvue-ts-demo",
-            "stars": 128,
+            "stars": 127,
             "topics": [
               "mp",
               "mpvue",
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T13:11:31.751Z",
+    "last_updated": "2026-10-10T12:26:21.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",
