@@ -19,7 +19,7 @@
             "open_issues": 90,
             "owner": "wendux",
             "repo": "fly",
-            "stars": 3920,
+            "stars": 3919,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
@@ -86,7 +86,7 @@
             "open_issues": 10,
             "owner": "F-loat",
             "repo": "mpvue-router-patch",
-            "stars": 301,
+            "stars": 300,
             "topics": [
               "mpvue",
               "router",
@@ -223,7 +223,7 @@
             "open_issues": 1,
             "owner": "KuangPF",
             "repo": "mpvue-weui",
-            "stars": 1441,
+            "stars": 1440,
             "topics": [
               "mpvue",
               "vue",
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T12:26:21.227Z",
+    "last_updated": "2026-10-11T12:43:59.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",
