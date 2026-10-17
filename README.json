@@ -361,7 +361,7 @@
             "open_issues": 56,
             "owner": "Hzy0913",
             "repo": "mpvue-calendar",
-            "stars": 542,
+            "stars": 541,
             "topics": [
               "calendar",
               "chinese-lunar",
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T11:17:29.813Z",
+    "last_updated": "2026-10-17T10:37:53.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",
