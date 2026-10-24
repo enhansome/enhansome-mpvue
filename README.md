@@ -19,7 +19,7 @@
 
 ## 工具
 
-* [flyio](https://github.com/wendux/fly/blob/master/README-CH.md) ⭐ 3,920 | 🐛 90 | 🌐 JavaScript | 📅 2022-07-26 - 同时支持浏览器、小程序、Node、Weex 的基于 Promise 的跨平台 http 请求库。可以让您在多个端上尽可能大限度的实现代码复用。
+* [flyio](https://github.com/wendux/fly/blob/master/README-CH.md) ⭐ 3,921 | 🐛 90 | 🌐 JavaScript | 📅 2022-07-26 - 同时支持浏览器、小程序、Node、Weex 的基于 Promise 的跨平台 http 请求库。可以让您在多个端上尽可能大限度的实现代码复用。
 * [mpvue-entry](https://github.com/F-loat/mpvue-entry) ⭐ 349 | 🐛 22 | 🌐 JavaScript | 📅 2022-12-03 - 集中式页面配置，避免重复编辑各页面的 main.js 文件，优化目录结构。
 * [minapp-api-promise](https://github.com/bigmeow/minapp-api-promise) ⚠️ Archived - 将所有异步微信小程序 API promise 化，支持 then/catch、async/await 的方式调用小程序 API，支持请求队列，支持对原生 API 进行拦截。
 * [mpvue-router-patch](https://github.com/F-loat/mpvue-router-patch) ⭐ 300 | 🐛 10 | 🌐 JavaScript | 📅 2019-03-05 - 在 mpvue 中使用 vue-router 兼容的路由写法。
@@ -30,7 +30,7 @@
 
 ## 框架
 
-* [WeUI](https://github.com/KuangPF/wxapp-vue) ⭐ 1,439 | 🐛 1 | 🌐 Vue | 📅 2022-11-14 - 用 vue 写小程序，基于 mpvue 框架重写 weui。
+* [WeUI](https://github.com/KuangPF/wxapp-vue) ⭐ 1,440 | 🐛 1 | 🌐 Vue | 📅 2022-11-14 - 用 vue 写小程序，基于 mpvue 框架重写 weui。
 * [mpvue-vant](https://github.com/xxxsimons/mpvue-vant) ⭐ 400 | 🐛 24 | 🌐 JavaScript | 📅 2022-12-08 - mpvue中无缝接入 [Vant Weapp](https://youzan.github.io/vant-weapp/#/intro) 组件库
 * [mpvue-zanui](https://github.com/samwang1027/mpvue-zanui) ⚠️ Archived - 使用 mpvue 框架重写 zanui。
 * [mp-weui](https://github.com/youngluo/mp-weui) ⭐ 160 | 🐛 4 | 🌐 Vue | 📅 2018-07-01 - 基于 mpvue 和 weui-wxss 封装的小程序 UI 库。
@@ -73,4 +73,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
