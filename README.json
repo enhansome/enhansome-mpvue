@@ -223,7 +223,7 @@
             "open_issues": 1,
             "owner": "KuangPF",
             "repo": "mpvue-weui",
-            "stars": 1440,
+            "stars": 1439,
             "topics": [
               "mpvue",
               "vue",
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T12:05:08.790Z",
+    "last_updated": "2026-10-28T12:46:31.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",
