@@ -250,7 +250,7 @@
             "open_issues": 24,
             "owner": "Rychou",
             "repo": "mpvue-vant",
-            "stars": 400,
+            "stars": 399,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T12:54:39.000Z",
+    "last_updated": "2026-10-30T12:47:59.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",
