@@ -19,7 +19,7 @@
             "open_issues": 90,
             "owner": "wendux",
             "repo": "fly",
-            "stars": 3920,
+            "stars": 3921,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:27.198Z"
@@ -652,7 +652,7 @@
             "open_issues": 1,
             "owner": "zz570557024",
             "repo": "vue-mpvue-ChatRobot",
-            "stars": 266,
+            "stars": 267,
             "topics": [
               "chat",
               "echarts",
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T15:41:51.760Z",
+    "last_updated": "2026-11-03T14:05:36.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",

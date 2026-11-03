@@ -19,7 +19,7 @@
 
 ## 工具
 
-* [flyio](https://github.com/wendux/fly/blob/master/README-CH.md) ⭐ 3,920 | 🐛 90 | 🌐 JavaScript | 📅 2022-07-26 - 同时支持浏览器、小程序、Node、Weex 的基于 Promise 的跨平台 http 请求库。可以让您在多个端上尽可能大限度的实现代码复用。
+* [flyio](https://github.com/wendux/fly/blob/master/README-CH.md) ⭐ 3,921 | 🐛 90 | 🌐 JavaScript | 📅 2022-07-26 - 同时支持浏览器、小程序、Node、Weex 的基于 Promise 的跨平台 http 请求库。可以让您在多个端上尽可能大限度的实现代码复用。
 * [mpvue-entry](https://github.com/F-loat/mpvue-entry) ⭐ 349 | 🐛 22 | 🌐 JavaScript | 📅 2022-12-03 - 集中式页面配置，避免重复编辑各页面的 main.js 文件，优化目录结构。
 * [minapp-api-promise](https://github.com/bigmeow/minapp-api-promise) ⚠️ Archived - 将所有异步微信小程序 API promise 化，支持 then/catch、async/await 的方式调用小程序 API，支持请求队列，支持对原生 API 进行拦截。
 * [mpvue-router-patch](https://github.com/F-loat/mpvue-router-patch) ⭐ 300 | 🐛 10 | 🌐 JavaScript | 📅 2019-03-05 - 在 mpvue 中使用 vue-router 兼容的路由写法。
@@ -53,7 +53,7 @@
 * [IT之家Lite](https://github.com/F-loat/ithome-lite) ⭐ 526 | 🐛 19 | 🌐 Vue | 📅 2022-12-09 - IT之家
 * [mpvue-douban](https://github.com/mini-mpvue/mpvue-douban) ⭐ 290 | 🐛 24 | 🌐 JavaScript | 📅 2022-12-08 - 豆瓣电影
 * [外卖小程序 Demo](https://github.com/WsmDyj/mpvue) ⭐ 288 | 🐛 15 | 🌐 Vue | 📅 2019-01-15 - 类似美团外卖的 UI 和 UE
-* [vue-mpvue-ChatRobot](https://github.com/zz570557024/vue-mpvue-ChatRobot) ⭐ 266 | 🐛 1 | 🌐 JavaScript | 📅 2018-07-27 - 聊天机器人
+* [vue-mpvue-ChatRobot](https://github.com/zz570557024/vue-mpvue-ChatRobot) ⭐ 267 | 🐛 1 | 🌐 JavaScript | 📅 2018-07-27 - 聊天机器人
 * [mpvue-ts-demo](https://github.com/WingGao/mpvue-ts-demo) ⭐ 127 | 🐛 13 | 🌐 JavaScript | 📅 2022-12-09 - 用 ts 写 mpvue
 * [mpvue-iview-weapp](https://github.com/wkl007/mpvue-iview-weapp) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2019-06-10 -基于 mpvue 导入 iview-weapp
 * [mpvue-market](https://github.com/wkl007/mpvue-market) ⭐ 41 | 🐛 0 | 🌐 Vue | 📅 2019-06-10 - 基于 mpvue 的小程序营销组件，支持：大转盘、刮刮乐、老虎机、水果机、摇一摇、手势解锁
@@ -73,4 +73,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
