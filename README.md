@@ -30,10 +30,10 @@
 
 ## 框架
 
-* [WeUI](https://github.com/KuangPF/wxapp-vue) ⭐ 1,438 | 🐛 1 | 🌐 Vue | 📅 2022-11-14 - 用 vue 写小程序，基于 mpvue 框架重写 weui。
+* [WeUI](https://github.com/KuangPF/wxapp-vue) ⭐ 1,437 | 🐛 1 | 🌐 Vue | 📅 2022-11-14 - 用 vue 写小程序，基于 mpvue 框架重写 weui。
 * [mpvue-vant](https://github.com/xxxsimons/mpvue-vant) ⭐ 398 | 🐛 24 | 🌐 JavaScript | 📅 2022-12-08 - mpvue中无缝接入 [Vant Weapp](https://youzan.github.io/vant-weapp/#/intro) 组件库
 * [mpvue-zanui](https://github.com/samwang1027/mpvue-zanui) ⚠️ Archived - 使用 mpvue 框架重写 zanui。
-* [mp-weui](https://github.com/youngluo/mp-weui) ⭐ 160 | 🐛 4 | 🌐 Vue | 📅 2018-07-01 - 基于 mpvue 和 weui-wxss 封装的小程序 UI 库。
+* [mp-weui](https://github.com/youngluo/mp-weui) ⭐ 159 | 🐛 4 | 🌐 Vue | 📅 2018-07-01 - 基于 mpvue 和 weui-wxss 封装的小程序 UI 库。
 
 ## 组件
 
@@ -53,7 +53,7 @@
 * [IT之家Lite](https://github.com/F-loat/ithome-lite) ⭐ 526 | 🐛 19 | 🌐 Vue | 📅 2022-12-09 - IT之家
 * [mpvue-douban](https://github.com/mini-mpvue/mpvue-douban) ⭐ 290 | 🐛 24 | 🌐 JavaScript | 📅 2022-12-08 - 豆瓣电影
 * [外卖小程序 Demo](https://github.com/WsmDyj/mpvue) ⭐ 288 | 🐛 15 | 🌐 Vue | 📅 2019-01-15 - 类似美团外卖的 UI 和 UE
-* [vue-mpvue-ChatRobot](https://github.com/zz570557024/vue-mpvue-ChatRobot) ⭐ 267 | 🐛 1 | 🌐 JavaScript | 📅 2018-07-27 - 聊天机器人
+* [vue-mpvue-ChatRobot](https://github.com/zz570557024/vue-mpvue-ChatRobot) ⭐ 266 | 🐛 1 | 🌐 JavaScript | 📅 2018-07-27 - 聊天机器人
 * [mpvue-ts-demo](https://github.com/WingGao/mpvue-ts-demo) ⭐ 127 | 🐛 13 | 🌐 JavaScript | 📅 2022-12-09 - 用 ts 写 mpvue
 * [mpvue-iview-weapp](https://github.com/wkl007/mpvue-iview-weapp) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2019-06-10 -基于 mpvue 导入 iview-weapp
 * [mpvue-market](https://github.com/wkl007/mpvue-market) ⭐ 41 | 🐛 0 | 🌐 Vue | 📅 2019-06-10 - 基于 mpvue 的小程序营销组件，支持：大转盘、刮刮乐、老虎机、水果机、摇一摇、手势解锁
@@ -73,4 +73,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

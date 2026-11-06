@@ -223,7 +223,7 @@
             "open_issues": 1,
             "owner": "KuangPF",
             "repo": "mpvue-weui",
-            "stars": 1438,
+            "stars": 1437,
             "topics": [
               "mpvue",
               "vue",
@@ -297,7 +297,7 @@
             "open_issues": 4,
             "owner": "youngluo",
             "repo": "mp-weui",
-            "stars": 160,
+            "stars": 159,
             "topics": [
               "mp-weui",
               "mpvue",
@@ -652,7 +652,7 @@
             "open_issues": 1,
             "owner": "zz570557024",
             "repo": "vue-mpvue-ChatRobot",
-            "stars": 267,
+            "stars": 266,
             "topics": [
               "chat",
               "echarts",
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T14:34:11.813Z",
+    "last_updated": "2026-11-06T14:11:40.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",
