@@ -223,7 +223,7 @@
             "open_issues": 1,
             "owner": "KuangPF",
             "repo": "mpvue-weui",
-            "stars": 1437,
+            "stars": 1436,
             "topics": [
               "mpvue",
               "vue",
@@ -329,7 +329,7 @@
             "open_issues": 51,
             "owner": "we-plugin",
             "repo": "we-cropper",
-            "stars": 2194,
+            "stars": 2193,
             "topics": [
               "canvas",
               "cropper",
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T17:07:38.700Z",
+    "last_updated": "2026-11-26T16:49:05.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to mpvue",
